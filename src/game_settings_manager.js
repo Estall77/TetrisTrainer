@@ -104,7 +104,7 @@ export function getDASTriggerThreshold() {
       break;
     case DASSpeed.FAST:
     case DASSpeed.FASTDAS:
-      ARR = 4;
+      ARR = 3;
       break;
     case DASSpeed.SLOW_MEDIUM:
     case DASSpeed.MEDIUM:
