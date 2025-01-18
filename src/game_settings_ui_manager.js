@@ -31,6 +31,7 @@ const DAS_SPEED_LIST = [
   DASSpeed.MEDIUM,
   DASSpeed.FAST,
   DASSpeed.FASTDAS,
+  DASSpeed.SUPERFAST
 ];
 
 /* List of DAS charging behaviors in order that they're listed in the UI dropdown.
